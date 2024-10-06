@@ -7,11 +7,11 @@
 <h4>Image Capture</h4>: The system uses camera to take input and matches it with available databases.<br><h4>Face Recognition</h4>: Deep learning algorithms analyze these images to identify and verify the identities of the people present. The system compares the captured faces with a database of known individuals.<br><h4>Attendance Tracking</h4>: When a recognized face is detected, the system records the attendance. It can create a log or store the data in a spreadsheet.<br><h4>Real-Time Processing</h4>: The entire process happens in real time, allowing for efficient and accurate attendance management.<br>
 </p></h3>
 <h2>Installing dependencies :</h2>
-1. Install dlib from https://github.com/z-mahmud22/Dlib_Windows_Python3.x.git according to the python version.
-2. Install compatible numpy version.
-3. Then install :
-'''
+1. Install dlib from https://github.com/z-mahmud22/Dlib_Windows_Python3.x.git according to the python version.<br>
+2. Install compatible numpy version.<br>
+3. Then install :<br>
+```
 pip install face-recognition
-'''
+```
 </body>
 </html>
