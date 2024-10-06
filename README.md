@@ -12,11 +12,9 @@
 `git clone https://github.com/z-mahmud22/Dlib_Windows_Python3.x.git`
 
 2. Install compatible numpy version.<br>
-
 `pip install numpy==1.26.0`
 
 3. Then install :<br>
-
 `pip install face-recognition`
 
 </p>
