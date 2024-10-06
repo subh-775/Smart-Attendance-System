@@ -9,10 +9,10 @@
 <h2>Installing dependencies :</h2>
 1. Install dlib from https://github.com/z-mahmud22/Dlib_Windows_Python3.x.git according to the python version.<br>
 2. Install compatible numpy version.<br>
-3. Then install :
-```
-pip install face-recognition
-```
+3. Then install :<br>
+
+`pip install face-recognition`
+
 </p>
 </body>
 </html>
