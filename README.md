@@ -1,5 +1,5 @@
 <html>
-  <head><h1>Smart Attendance system using Face_recognition and Open cv</h1></head>
+  <head><h1>Smart Attendance system using Face_recognition and OpenCV</h1></head>
 <body>
   
 <h2>Here's how it works :</h2>
