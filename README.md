@@ -37,7 +37,6 @@
   </head>
   <body>
     <h1>🌟 Smart Attendance System using Face Recognition and OpenCV 🌟</h1>
-
     <h2>🔍 Here's how it works:</h2>
     <ul>
       <li>
@@ -53,7 +52,6 @@
         <h4>⏱️ Real-Time Processing:</h4> The entire process happens in real-time, allowing for efficient and accurate attendance management.
       </li>
     </ul>
-
     <h2>⚙️ Installing Dependencies:</h2>
     <ol>
       <li>
@@ -72,7 +70,6 @@
         <span class="code">pip install face-recognition</span>
       </li>
     </ol>
-
     <h3 style="text-align: center;">✨ Build an efficient attendance system with cutting-edge face recognition! 🚀</h3>
   </body>
 </html>
