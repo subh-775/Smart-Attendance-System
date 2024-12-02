@@ -1,40 +1,5 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>Smart Attendance System</title>
-    <style>
-      body {
-        font-family: Arial, sans-serif;
-        margin: 20px;
-        line-height: 1.6;
-        color: #333;
-      }
-      h1 {
-        color: #4CAF50;
-        text-align: center;
-      }
-      h2 {
-        color: #2196F3;
-      }
-      h4 {
-        color: #FF5722;
-      }
-      ul {
-        padding-left: 20px;
-      }
-      .emoji {
-        font-size: 1.2em;
-      }
-      .code {
-        background-color: #f4f4f4;
-        padding: 5px;
-        border-left: 3px solid #ccc;
-        margin: 10px 0;
-        display: inline-block;
-        font-family: monospace;
-      }
-    </style>
-  </head>
   <body>
     <h1>🌟 Smart Attendance System using Face Recognition and OpenCV 🌟</h1>
     <h2>🔍 Here's how it works:</h2>
