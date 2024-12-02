@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <body>
-    <h1>🌟 Smart Attendance System using Face Recognition and OpenCV 🌟</h1>
+    <h1>🌟 Smart Attendance System using Face Recognition and OpenCV </h1>
     <h2>🔍 Here's how it works:</h2>
     <ul>
       <li>
